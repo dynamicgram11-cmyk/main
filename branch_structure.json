@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-319-feat-frontend-isolate-proof-workers-under-the",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-319-feat-frontend-isolate-proof-workers-under-the": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-319-feat-frontend-isolate-proof-workers-under-the",
+    "origin"
+  ]
+}
